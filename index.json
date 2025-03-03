@@ -23,7 +23,7 @@
     "lang": "all",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "Akuma",
@@ -3368,7 +3368,7 @@
     "lang": "all",
     "code": 199,
     "version": "1.4.199",
-    "nsfw": 1,
+    "nsfw": 0,
     "sources": [
       {
         "name": "MangaDex",
